@@ -1,0 +1,14 @@
+@import './base.css';
+
+body {
+    background: #FFF4E0;
+}
+
+.p-inputtext, .p-colorpicker {
+    width: 100%;
+}
+
+
+.errorMsg {
+    color: red;
+}
